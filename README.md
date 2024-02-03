@@ -1,6 +1,11 @@
 # uuid-converter
 Supports UUID conversion
 
+# platforms
+| PLATFORM | VERSION | VERIFIED |
+| -- | -- | -- |
+| **JAVA** | 1.20.4 | ✔️ |
+
 # spec
 `function` **uuid:to_selector**
 - *takes*
